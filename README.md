@@ -20,7 +20,7 @@ fork this repo and made your changes, then do a pull request.
 
 If you don't know [how to use Git][trygit], you can download the
 `shirt-lambda.ai` file and modify that, and then send an email to
-[`acm-officers@lists.ccs.neu.edu`][officerslist] with your design
+[`acm-officers@lists.ccs.neu.edu`][officers] with your design
 attached.
 
 
