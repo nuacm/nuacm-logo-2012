@@ -1,7 +1,7 @@
 Fork This Design
 ================
 
-[NU ACM][] is having another logo design contest. The winner gets free
+[NUacm][acm] is having another logo design contest. The winner gets free
 ACM swag -- a shirt, stickers, and a "votive candle holder" -- along
 with the pride of 100 students at Northeastern's College of Computer
 and Information Science wearing your design.
@@ -9,6 +9,10 @@ and Information Science wearing your design.
 This is a **"[Fork][fork] This Design"** contest, meaning you're encouraged to
 work off of other designs (including the current logo), but you're
 allowed to do your own completely new thing if you want.
+
+## Current design
+
+![current][]
 
 ## How to submit a design
 
@@ -24,8 +28,9 @@ If you don't know [how to use Git][trygit], you can download the
 attached.
 
 
-[NU ACM]: http://acm.ccs.neu.edu/ "Northeastern University Association for Computing Machinery"
+[acm]: http://acm.ccs.neu.edu/ "Northeastern University Association for Computing Machinery"
 [fork]: https://help.github.com/articles/fork-a-repo
+[current]: https://github.com/nuacm/nuacm-logo-2012/raw/master/shirt-lambda.png
 [repo]: https://github.com/ali/nuacm-logo-2012 "ali/nuacm-logo-2012"
 [wylie]: http://wylie.su/ "Wylie Conlon"
 [trygit]: http://try.github.com/ "Learn Git in 15 minutes"
